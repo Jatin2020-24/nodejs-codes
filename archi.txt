@@ -1,0 +1,3 @@
+Call stack -> Node API's -> Callback Queue -> Call Stack ..........
+
+This is call event loop
